@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from googleapiclient.discovery import build
-from youtube_api_key import API_KEY
+API_KEY = st.secrets["YOUTUBE_API_KEY"]
 
 
 st.set_page_config(
