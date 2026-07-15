@@ -8,3 +8,4 @@ newsapi-python
 scikit-learn
 joblib
 numpy
+wordcloud
