@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+google-api-python-client
+transformers
+torch
+newsapi-python
+scikit-learn
+joblib
+numpy
